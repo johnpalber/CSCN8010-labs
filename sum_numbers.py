@@ -1,2 +1,3 @@
 x = 3
-print (x*x)
+print (3*3)
+
